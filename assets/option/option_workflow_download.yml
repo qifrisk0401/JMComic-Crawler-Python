@@ -3,7 +3,7 @@ log: pretty
 
 dir_rule:
   base_dir: ${JM_DOWNLOAD_DIR}
-  rule: Bd_Aauthor_Aid_Atitle_Pindex
+  rule: Bd_Aauthor_Atitle_Pindex
 
 client:
   impl: api # 使用api可免登录下载本子
